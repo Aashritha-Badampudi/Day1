@@ -13,3 +13,4 @@ print(bool("False")) #No matter what the string is but it is not empty there is 
 print(bool([0]))
 print(bool(-10))
 print(bool(0.00001))
+print(bool(15<6))
