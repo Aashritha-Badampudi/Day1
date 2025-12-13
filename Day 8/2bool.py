@@ -9,4 +9,4 @@ print(bool(set()))
 print(bool(None))
 print(bool([]))
 print(bool(True))
-print(bool("False"))
+print(bool("False")) #No matter what the string is but it is not empty there is a string in that so its true
