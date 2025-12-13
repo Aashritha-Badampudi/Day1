@@ -1,0 +1,9 @@
+#NOR
+print(not(True|True|True))
+print(not(True|True|False))
+print(not(True|False|True))
+print(not(True|False|False))
+print(not(False|True|True))
+print(not(False|True|False))
+print(not(False|False|True))
+print(not(False|False|False))
