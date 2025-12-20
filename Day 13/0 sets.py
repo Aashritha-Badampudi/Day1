@@ -12,3 +12,5 @@
 # You want unique values only
 # You want to remove duplicates
 # You want fast membership checking 
+
+#No indexing in sets
