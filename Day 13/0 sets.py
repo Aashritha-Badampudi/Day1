@@ -1,4 +1,4 @@
-# 🔵 What is a Set?
+# What is a Set?
 # A set is a collection of unique elements.
 
 # Key points:
@@ -7,7 +7,7 @@
 # Mutable (you can add/remove elements)
 # Written using {}
 
-# 🔵 Why Do We Need Sets?
+# Why Do We Need Sets?
 # Sets are used when:
 # You want unique values only
 # You want to remove duplicates
